@@ -1,0 +1,41 @@
+{
+  "id": "nakbuch",
+  "name": "NAK Buch",
+  "url": "https://www.leonard-lemke.com/apps/nakbuch",
+  "privacyPolicy": "https://www.leonard-lemke.com/apps/nakbuch/privacy-policy",
+  "github": "https://github.com/Lemkinator/nak-buch",
+  "created": "2021-11-01T00:00:00.000Z",
+  "updated": "2023-02-23T00:00:00.000Z",
+  "descriptionShort": {
+    "en": "The new non-official songbook app of the New Apostolic Church.",
+    "de": "Die neue nicht-offizielle Liederbuch-App der Neuapostolischen Kirche."
+  },
+  "descriptionLong": {
+    "en": "The new non-official songbook app of the New Apostolic Church.",
+    "de": "Die neue nicht-offizielle Liederbuch-App der Neuapostolischen Kirche."
+  },
+  "sections": [
+    {
+      "id": "features",
+      "name": {
+        "en": "Features",
+        "de": "Features"
+      },
+      "content": {
+        "en": "Content",
+        "de": "Content"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "date": "2021-11-01T00:00:00.000Z",
+      "description": {
+        "en": "Initial release.",
+        "de": "Erstveröffentlichung."
+      }
+    }
+  ]
+}

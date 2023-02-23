@@ -1,0 +1,64 @@
+{
+  "id": "info",
+  "name": "Info",
+  "created": "2021-05-07T00:00:00.000Z",
+  "updated": "2023-02-23T00:00:00.000Z",
+  "categories": [
+    {
+      "id": "apps",
+      "name": "Apps",
+      "url": "https://www.leonard-lemke.com/apps",
+      "created": "2021-11-01T00:00:00.000Z",
+      "updated": "2023-02-23T00:00:00.000Z",
+      "description": {
+        "en": "Modern Apps in Samsungs OneUI-Style.",
+        "de": "Moderne Apps in Samsungs OneUI-Style."
+      },
+      "topics": [
+        {
+          "id": "nakbuch",
+          "json": "https://api.leonard-lemke.com/v1/apps/nakbuch/info.json",
+          "created": "2021-11-01T00:00:00.000Z",
+          "updated": "2023-02-23T00:00:00.000Z"
+        },
+        {
+          "id": "studiportal",
+          "json": "https://api.leonard-lemke.com/v1/apps/studiportal/info.json",
+          "created": "2022-06-01T00:00:00.000Z",
+          "updated": "2023-02-23T00:00:00.000Z"
+        },
+        {
+          "id": "sudoku",
+          "json": "https://api.leonard-lemke.com/v1/apps/sudoku/info.json",
+          "created": "2022-08-01T00:00:00.000Z",
+          "updated": "2023-02-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "name": "Media",
+      "url": "https://www.leonard-lemke.com/media",
+      "created": "2021-05-07T00:00:00.000Z",
+      "updated": "2023-02-23T00:00:00.000Z",
+      "description": {
+        "en": "Cinematic/Freestyle FPV",
+        "de": "Cinematic/Freestyle FPV"
+      },
+      "topics": [
+        {
+          "id": "accelerate",
+          "json": "https://api.leonard-lemke.com/v1/media/accelerate/info.json",
+          "created": "2021-05-07T00:00:00.000Z",
+          "updated": "2023-02-23T00:00:00.000Z"
+        },
+        {
+          "id": "light-utopia",
+          "json": "https://api.leonard-lemke.com/v1/media/light-utopia/info.json",
+          "created": "2022-08-12T00:00:00.000Z",
+          "updated": "2023-02-23T00:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

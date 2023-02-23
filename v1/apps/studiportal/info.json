@@ -1,0 +1,41 @@
+{
+  "id": "studiportal",
+  "name": "Studiportal",
+  "url": "https://www.leonard-lemke.com/apps/studiportal",
+  "privacyPolicy": "https://www.leonard-lemke.com/apps/studiportal/privacy-policy",
+  "github": "https://github.com/Lemkinator/Studiportal",
+  "created": "2022-06-01T00:00:00.000Z",
+  "updated": "2023-02-23T00:00:00.000Z",
+  "descriptionShort": {
+    "en": "The new Studiportal app with OneUI-Design.",
+    "de": "Die neue Studiportal-App mit OneUI-Design."
+  },
+  "descriptionLong": {
+    "en": "The new Studiportal app with OneUI-Design.",
+    "de": "Die neue Studiportal-App mit OneUI-Design."
+  },
+  "sections": [
+    {
+      "id": "features",
+      "name": {
+        "en": "Features",
+        "de": "Features"
+      },
+      "content": {
+        "en": "Content",
+        "de": "Content"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "date": "2021-11-01T00:00:00.000Z",
+      "description": {
+        "en": "Initial release.",
+        "de": "Erstveröffentlichung."
+      }
+    }
+  ]
+}
